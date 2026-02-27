@@ -1,9 +1,5 @@
 'use client';
 
-export default function AngelMintSection({
-  onMint,
-}: {
-  onMint?: () => void;
-}) {
+export default function AngelMintSection(props: Record<string, unknown>) {
   return null;
 }
