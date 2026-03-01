@@ -1,5 +1,5 @@
 .pageLayout {
-  margin-left: 265px;
+  margin-left: 0;
   min-height: 100vh;
   overflow-x: hidden;
 }
@@ -330,8 +330,7 @@
 /* Responsive */
 @media (max-width: 900px) {
   .pageLayout {
-    margin-left: 0;
-    padding-top: 66px;
+    padding-top: 0;
   }
 
   .content {
